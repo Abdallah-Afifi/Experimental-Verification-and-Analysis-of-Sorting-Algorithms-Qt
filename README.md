@@ -1,10 +1,10 @@
-# Experimental-Verification-and-Analysis-of-Sorting-Algorithms
+# Experimental-Verification-and-Analysis-of-Sorting-Algorithms-Qt
 
 # How to Use It 
 
 You need to download or clone this repository to your machine, and then run the source files in the Code Directory.
 
-The output will be displayed in a text file in the code Directory (Output.txt) such as the one on this repository (Output.md). 
+The output will be displayed in Qt, and you can find screenshots of the program on Qt in the repository (ScreenShots Directory).
 
 # Algorithms
 
@@ -24,7 +24,9 @@ It has a [Algorithm].png file for each sorting algorithm used in the project, in
 
 It has a [Algorithm].xlsx file for each sorting algorithm used in the project, including the outcome table and graph after the analysis. 
 
-# Code Directory
+# Analysis2 Directory
+
+**This is the Qt code Directory
 
 BubbleSort.cpp and BubbleSort.h, which are the header and source files of the class Bubble Sort.
 
@@ -54,7 +56,13 @@ SortingAlgorithm.cpp and SortingAlgorithm.h, which are the header and source fil
 
 TreeSort.cpp and TreeSort.h, which are the header and source files of the class Tree Sort.
 
-Analysis.cpp, which includes the main function of the program. 
+analysis.cpp and analysis.h, which includes the second screen of the program. 
+
+mainwindow.cpp and mainwindow.h, which includes the first screen of the program. 
+
+main.cpp, which includes the main function of the Qt program. 
+
+mainwindow.ui and analysis.ui, which are the UI files for the Qt program. 
 
 # Design Directory 
 
