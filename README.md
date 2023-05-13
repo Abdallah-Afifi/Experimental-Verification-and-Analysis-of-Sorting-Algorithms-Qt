@@ -4,7 +4,7 @@
 
 You need to download or clone this repository to your machine, and then run the source files in the Code Directory.
 
-The output will be displayed in Qt, and you can find screenshots of the program on Qt in the repository (ScreenShots Directory).
+The output will be displayed in Qt, and you can find screenshots of the program on Qt in the repository (Screenshots Directory).
 
 # Algorithms
 
