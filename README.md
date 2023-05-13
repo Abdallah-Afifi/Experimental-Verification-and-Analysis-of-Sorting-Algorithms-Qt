@@ -26,7 +26,7 @@ It has a [Algorithm].xlsx file for each sorting algorithm used in the project, i
 
 # Analysis2 Directory
 
-** This is the Qt code Directory
+This is the Qt code Directory
 
 BubbleSort.cpp and BubbleSort.h, which are the header and source files of the class Bubble Sort.
 
